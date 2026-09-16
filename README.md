@@ -2,7 +2,7 @@
 
 An ML-powered web platform that predicts crop infection risk from environmental and soil sensor data, helping farmers take preventive action before yield loss occurs.
 
-🏆 **1st Prize — TinkerCase Hackathon, organized by IEEE**
+🏆 **2nd Prize — TinkerCase Hackathon, organized by IEEE**
 
 ---
 
